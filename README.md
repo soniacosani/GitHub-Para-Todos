@@ -1,6 +1,6 @@
-# Modificame
+#construccion del PEI
+Confomacion de los equipos de trabajo
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
 
 > Es nuestro arenero personal
 
